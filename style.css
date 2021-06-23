@@ -1,0 +1,66 @@
+    body {
+        background-image: url('login-bg.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;  
+        background-size: 100%110%;
+    }
+    #logo{
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    #head1 h1{
+        margin-left: 390px;
+        margin-top: 30px;
+        color: white;
+        font-size: L-62px;
+    }
+    #head1 p{
+        margin-left: 390px;
+        margin-top: 10px;
+        color: white;
+        font-size:L-25px;
+    }
+    #bform{
+        border-radius: 5px;
+        background-color: white;
+        padding: 20px;
+        width: 28%;
+        margin-left: 520px;
+        margin-top: 40px;
+    }
+    #bform input[type=text]{
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+    #bform p{
+        font-size: 20px;
+        padding: 2px 10px;
+    }
+    #bform form{
+        padding: 10px 10px;
+    }
+    #bform input[type=checkbox]{
+        background-color: #eee;
+    }
+    #bform input[type=submit]{
+        width: 20%;
+        padding: 12px 10px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        color: white;
+        background-color: blue;
+    }
+    #span1{
+        margin-left: 250px;
+    }   
+    #span2{
+        margin-left: 200px;
+    }
